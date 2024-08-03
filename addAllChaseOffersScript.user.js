@@ -3,8 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://secure.chase.com/*
 // @grant       GM_addStyle
-// @version     1.0
+// @version     1.1
 // @author      karnedgy
+// @downloadURL https://github.com/TKSwedberg/ChaseAddAll/raw/main/addAllChaseOffersScript.user.js
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=chase.com
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @description 7/27/2024, 3:44:29 PM
