@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name        Add all amex offers
 // @namespace   Violentmonkey Scripts
-// @match       https://global.americanexpress.com/offers/eligible*
+// @match       https://global.americanexpress.com/offers/eligible
+// @match       https://global.americanexpress.com/offers/*
 // @grant       GM_addStyle
-// @version     1.1
+// @version     1.1.1
 // @author      karnedgy
 // @icon        https://static-00.iconduck.com/assets.00/amex-icon-512x512-g9fsaqf1.png
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+// @downloadURL https://github.com/TKSwedberg/AddAllCreditCardOffers/raw/main/addAllAmexOffers.user.js
 // @description 8/3/2024, 1:19:40 PM
 // ==/UserScript==
 
